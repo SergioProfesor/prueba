@@ -1,2 +1,2 @@
-print("Hola, Mundo")
-nombre = input("¿Cómo te llamas?")
+print("Hola, Alumno")
+nombre = input("¿Cómo te llamas, elemento?")
